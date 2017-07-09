@@ -1,3 +1,5 @@
 # Hello-world
 My first
-IT to be
+ master
+First commit
+ readme-edits
